@@ -1,0 +1,10 @@
+mkdir test 
+cd test
+touch a{1..20}.txt
+ls
+mv a1.txt a1.yml
+mv a2.txt a2.yml
+mv a3.txt a3.yml
+mv a4.txt a4.yml
+mv a5.txt a5.yml
+ls
