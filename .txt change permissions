@@ -1,5 +1,0 @@
-mkdir test
-cd test
-touch test.txt
-chmod u=rwx,g=rw,o=r test.txt
-ls -lrt
